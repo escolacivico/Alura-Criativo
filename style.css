@@ -9,5 +9,6 @@ header {
     display: inline-block;
 }
 .lista-itens-elementos{
-    display: 0 16px;
+    display: inline-block;
+    margin: 0 16px;
 } 
