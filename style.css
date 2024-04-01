@@ -8,3 +8,6 @@ header {
 .lista-itens-elementos{
     display: inline-block;
 }
+.lista-itens-elementos{
+    display: 0 16px;
+} 
