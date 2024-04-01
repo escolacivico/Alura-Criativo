@@ -5,3 +5,6 @@ header {
 .imagem-cabecalho{
     width: 20%;
 }
+.lista-itens-elementos{
+    display: inline-block;
+}
