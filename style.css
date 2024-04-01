@@ -8,7 +8,11 @@ header {
 .lista-itens-elementos{
     display: inline-block;
 }
-.cabecalho-itens-elementos{
+.lista-itens-elementos{
     display: inline-block;
     margin: 40 16px;
 } 
+* {
+    margin: 0;
+    padding: 0;
+}
