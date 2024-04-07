@@ -9,14 +9,14 @@
     display: flex;    
     justify-content: space-around;
     align-items: center;
-    padding: 40px 0:
+    padding: 24px 0:
 }
 
 .imagem-cabecalho{
     width: 20%;
 
 
-.lista-itens-elementos{
+.cabecalho-lista-itens-elementos{
 display: inline-block;
 margin: 0 16px;
 font-sizer: 40px
