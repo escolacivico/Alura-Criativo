@@ -4,11 +4,12 @@
 }
 
 
-    .cabecalho{
+    .cabecalho-lista-itens-elementos{
         background-color: #b2b377;
     color: white;
-    display: flex;
+    display: flex;    
     justify-content: space-around;
+    }
     align-content: center;
     padding: 24px 10:
 }
