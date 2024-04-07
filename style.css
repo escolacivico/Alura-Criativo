@@ -4,4 +4,20 @@ header {
 }
 .imagem-cabecalho{
     width: 25%;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+    .cabecalho-lista-itens{
+display: inline-block;
+margin: 0 16px;
+font-sizer: 24px
+    }
