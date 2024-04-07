@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-
-=======
 header {
     background-color: #424E61;
     color: white;
-
-
->>>>>>> b6e3dcd3d2f3c41d4f6e7becbdbf22cd53b1244a
+}
+.cabecalho{
+    width: 20%;
+}
