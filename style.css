@@ -1,11 +1,11 @@
 *{
-    margin: 5;
-    padding: 5;
+    margin: 10;
+    padding: 10;
 }
 
 
     .cabecalho{
-        background-color: B2B377;
+        background-color: #b2b377;
     color: white;
     display: flex;
     justify-content: space-around;
