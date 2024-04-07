@@ -3,9 +3,8 @@
     padding: 5;
 }
 
-
-    .cabecalho{
-        background-color: #b2b377;
+    .cabecalho-lista-itens{
+        background-color: hsl(61, 28%, 58%);
     color: white;
     display: flex;    
     justify-content: space-around;
