@@ -2,8 +2,7 @@
     margin: 0;
     padding: 0;
 }
-
-    .cabecalho-lista-itens{
+    .cabecalho-lista-item{
         background-color: hsl(61, 28%, 58%);
     color:black;
     display: flex;    
@@ -12,8 +11,9 @@
     padding: 24px 0;
     font-size: 40px;
 } 
-.cabecalho-lista-itens{
-    
+.cabecalho-lista-item{
+font-family:Courier New;
+}
 
 
 
