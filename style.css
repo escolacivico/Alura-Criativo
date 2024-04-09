@@ -15,7 +15,9 @@
 .cabecalho-lista-itens{
 font-family: Courier New;
 }
-
+.programação{
+    text-align:start;
+}
 .cabecalho-imagem{
     width: 20%;
 }
