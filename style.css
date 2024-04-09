@@ -14,7 +14,8 @@
 
 .cabecalho-imagem{
     width: 20%;
-    display: flex-start
+    display: flex;
+    align-items: start;
 }
 
 .cabecalho-lista-itens-elementos{
