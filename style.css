@@ -11,10 +11,9 @@
     align-items: center;
     padding: 24px 0;
     font-size: 40px;
+    font-family: Courier New;
 } 
-.cabecalho-lista-itens{
-font-family: Courier New;
-}
+
 
 .programação{
     text-slign: start
