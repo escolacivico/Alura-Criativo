@@ -10,7 +10,7 @@
     justify-content: space-around;
     align-items: center;
     padding: 24px 0:
-    font-sizer: 60px
+    font-sizer: 40px;
     
 }
 
@@ -21,8 +21,7 @@
 .lista-itens-elementos{
 display: inline-block;
 margin: 0 16px;
-font-sizer: 60px
-color: black;
+
 }
 
 
