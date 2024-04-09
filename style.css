@@ -5,7 +5,7 @@
 
     .cabecalho-lista-itens{
         background-color: hsl(61, 28%, 58%);
-    color: white;
+    color:black;
     display: flex;    
     justify-content: space-around;
     align-items: center;
