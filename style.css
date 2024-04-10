@@ -14,7 +14,15 @@
 .cabecalho-imagem{
     width: 20%;
 }
-
+.body{
+    .poppins-thin {
+        font-family: "Poppins", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+      
+            
+}
 .lista-itens-elementos{
 display: inline-block;
 margin: 0 16px;
