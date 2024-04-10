@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-    .cabecalho-lista-item{
+    .cabecalho{
         background-color: hsl(61, 28%, 58%);
     color:black;
     display: flex;    
