@@ -18,8 +18,12 @@
     font-size: 35px;
     }
 
-.cabecalho-imagem{
-    width: 20%;
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image:linear-gradient() ;
 }
 
       
