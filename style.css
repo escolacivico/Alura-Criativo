@@ -6,8 +6,9 @@
         background-color: #BFE84D;
     color:black;
     display: flex;  
-    }  
     justify-content: space-around;
+    }  
+    
     margin: 0 10px;
     padding: 40px;
     }
