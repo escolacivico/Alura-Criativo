@@ -3,7 +3,7 @@
     padding: 0;
 }
     .cabecalho{
-        background-color: hsl(61, 28%, 58%);
+        background-color: #BFE84D;
     color:black;
     display: flex;    
     justify-content: space-around;
