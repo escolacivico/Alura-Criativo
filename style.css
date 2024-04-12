@@ -5,7 +5,8 @@
     .cabecalho{
         background-color: #BFE84D;
     color:black;
-    display: flex;    
+    display: flex;  
+    }  
     justify-content: space-around;
     margin: 0 10px;
     padding: 40px;
