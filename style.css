@@ -4,8 +4,8 @@
 }
     .cabecalho{
         background-color: #BFE84D;
-    color: black;
-    display: flex;  
+    color: black
+    display:flex;  
     justify-content: space-around;
     margin: 0 16px;
     padding: 40px;
