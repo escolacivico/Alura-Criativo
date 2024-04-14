@@ -2,9 +2,10 @@
     margin: 0;
     padding: 0;
 }
-header {
+.cabecalho{
     background-color: #F0FAB6;
-color:black;    
+color:black;
+display:flex;    
 }
 
 .cabecalho-imagem{
