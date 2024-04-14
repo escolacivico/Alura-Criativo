@@ -3,12 +3,9 @@
     padding: 0;
 }
     .cabecalho{
-        background-color: #BFE84D;
+        background: color #bdd23a;
     color: black;
     display:flex;  
-    justify-content: space-around;
-    margin: 0 16px;
-    padding: 40px;
     }  
         
     
