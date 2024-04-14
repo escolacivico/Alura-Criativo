@@ -7,13 +7,15 @@
 color:black;
 display:flex; 
 justify-content: space-around; 
-  
 }
 
 .cabecalho-imagem{
     width: 15%;
 }
 
+.cabecalho-lista-item{
+    display:inline-block
+}
 
 
 
