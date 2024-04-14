@@ -24,7 +24,10 @@ padding: 24px 0;
 
 .escola-imagem{
     width: 25%;
-    
-}
+ }
+
+ .escola{
+    background-image: linear-gradient(#CEED76,#317F25);
+ }
 
 
