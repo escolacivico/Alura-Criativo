@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-    body{
+    .cabecalho{
         background-color: rgb(191, 232, 79);
     color: black
     display:flex;  
