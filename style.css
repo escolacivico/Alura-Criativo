@@ -2,16 +2,11 @@
     margin: 0;
     padding: 0;
 }
-    .cabecalho {
-        background-color: #bdd23a;
-    color: black;
-    display:flex;  
-    }  
-        
-    
+header {
+    background-color: #424E61;
+    color: white;
+}
 
-.escola-imagem{
-    width: 25%;
 }
 
 
