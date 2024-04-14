@@ -5,7 +5,9 @@
 .cabecalho{
     background-color: #F0FAB6;
 color:black;
-display:flex;    
+display:flex; 
+justify-content: space-around; 
+  
 }
 
 .cabecalho-imagem{
