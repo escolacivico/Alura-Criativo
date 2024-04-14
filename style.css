@@ -3,7 +3,7 @@
     padding: 0;
 }
     body{
-        background-color: #BFE84D;
+        background-color: hsl(76, 77%, 61%);
     color: black
     display:flex;  
     justify-content: space-around;
