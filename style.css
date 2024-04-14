@@ -30,9 +30,10 @@ padding: 24px 0;
     background-image: linear-gradient(#F0FAB6,#8E946C);
     color: black;
     display:flex;
-
  }
     
+ .escola.div.conteudo{
+    width: 35%;
  }
  
  
