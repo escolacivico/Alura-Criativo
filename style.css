@@ -27,6 +27,7 @@ padding: 24px 0;
 }
 
 .escola-imagem{
+    display: grid;
     width: 25%;
  }
 
@@ -44,7 +45,6 @@ padding: 24px 0;
 }
 
 .escola-titulo{
-    display: flex;
     padding: 24px 0;
 }
 .estudante-titulo{
