@@ -44,6 +44,7 @@ padding: 24px 0;
 }
 
 .escola-titulo{
+    display: flex;
     padding: 24px 0;
 }
 .estudante-titulo{
